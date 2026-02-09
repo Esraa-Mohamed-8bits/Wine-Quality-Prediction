@@ -121,7 +121,6 @@ jupyter notebook
 ├── Project_5_Wine_Quality_Prediction.ipynb
 ├── winequality-red.csv
 ├── README.md
-├── requirements.txt
 
 🎯 Future Improvements
 
